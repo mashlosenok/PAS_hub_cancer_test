@@ -1,0 +1,13 @@
+track TCGA-BRCA_all
+bigDataUrl pas_norm_cancer_qval_gen_nOv.bb
+shortLabel TCGA-BRCA 
+longLabel TCGA-BRCA cancer and norm with counts
+type bigBed 9
+itemRgb on
+
+track TCGA-BRCA_q09
+bigDataUrl pas_norm_cancer_qval_gennOv_sort_q09.bb
+shortLabel TCGA-BRCA_qval 
+longLabel TCGA-BRCA cancer and norm with counts filtered by qval
+type bigBed 9
+itemRgb on
