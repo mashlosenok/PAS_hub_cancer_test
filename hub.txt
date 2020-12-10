@@ -1,0 +1,5 @@
+hub PAS_cancer_hub
+shortLabel PAS_cancer
+longLabel PAS_cancer_hub
+genomesFile genomes.txt
+email mariia.vlasenok@skoltech.ru
